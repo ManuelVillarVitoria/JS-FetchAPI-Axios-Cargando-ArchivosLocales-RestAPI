@@ -8,7 +8,7 @@ _2.-Upload a file .txt._
 
 _3.-Upload a file .JSON._
 
-_All this dynamically through Javascript using FETCH API and AXIOS._
+_All this dynamically through Javascript using FETCH API._
 
 ### Settings 🔧
 

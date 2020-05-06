@@ -2,6 +2,7 @@ document.getElementById('txtBtn').addEventListener('click', cargarTXT);
 document.getElementById('jsonBtn').addEventListener('click', cargarJSON);
 document.getElementById('apiBTN').addEventListener('click', cargarREST);
 
+
 function cargarTXT() {
     fetch('datos.txt')
         .then(res => res.text() )
